@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScolarApp</string>
+    <string name="hello_world">You must select a profile to play!</string>
+    <string name="action_settings">Settings</string>
+    <string name="profileTextButton">My Profile</string>
+    <string name="playTextButton">Play my favourite music!!!</string>
+    <string name="verifyTextButton">Where i am now?</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="northStringTextView">North Song</string>
+    <string name="southStringTextView">South Song</string>
+    <string name="song1StringRadioButton">Song1</string>
+    <string name="song2StringRadioButton">Song2</string>
+    <string name="storeStringButton">STORE!</string>
+    <string name="coordinatesStringTextView">nothing to display for now...</string>
+    <string name="playStringTextView">nothing to play now...</string>
+
+</resources>
